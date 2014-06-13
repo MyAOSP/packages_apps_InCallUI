@@ -99,14 +99,6 @@
         <View android:id="@+id/blacklistSpacer"
               style="@style/VerticalSeparator" />
 
-        <ImageButton android:id="@+id/modifyCallButton"
-                     style="@style/InCallButton"
-                     android:src="@drawable/ic_switch_video_holo_dark"
-                     android:contentDescription="@string/onscreenModifyCallText"
-                />
-
-        <View style="@style/VerticalSeparator" />
-
         <ImageButton android:id="@+id/addParticipant"
                      style="@style/InCallButton"
                      android:src="@drawable/ic_add_group_holo_dark"
