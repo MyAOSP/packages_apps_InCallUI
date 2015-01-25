@@ -77,6 +77,7 @@
     <!-- 20% opacity, theme color. -->
     <color name="incall_dialpad_touch_tint">#330288d1</color>
 
+
     <!-- Background colors for InCallUI. This set of colors is a subset of
         https://spec.googleplex.com/quantumpalette#extended which pass WCAG AA and all have a
         contrast ratio over 5:1.
@@ -106,4 +107,14 @@
 
     <!-- Ripple color used over light backgrounds. -->
     <color name="ripple_light">#40000000</color>
+    
+    <!-- Exposed colors for theming -->
+    
+    <color name="exposed_bg_dark">#ffffffff</color>
+    <color name="exposed_bg_light">#ff000000</color>
+    <color name="exposed_primary_text_light">#de000000</color>
+    <color name="exposed_secondary_text_light">#8a000000</color>
+    <color name="exposed_primary_text_dark">#ffffffff</color>
+    <color name="exposed_secondary_text_dark">#b3ffffff</color>
+
 </resources>
